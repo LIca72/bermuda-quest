@@ -1,0 +1,43 @@
+# 🌀 Bermuda Quest: Soul of the Triangle
+
+**A mystical text-based adventure written in Python.**  
+You are the captain of a ship that enters the mysterious Bermuda Triangle, where every choice changes your fate.  
+Navigate storms, follow starlight, trust your intuition… and at the end, make a wish.
+
+---
+
+## 🎮 How to Play
+
+1. Download the file: `bermuda_quest.py`
+2. Run the game in your terminal or Python environment:
+   ```bash
+   python bermuda_quest.py
+	3.	Follow the prompts and make your choices.
+	4.	At the end, you’ll be asked to type your true wish…
+
+⸻
+
+🧭 Features
+	•	Multiple paths and endings
+	•	Mysterious symbols, dark caves, and magical compasses
+	•	A philosophical twist: the final wish reflects your inner journey
+	•	Beautiful storytelling with interactive logic
+
+✨ Author’s Note
+
+This game is part of my personal learning journey in Python.
+It’s more than code — it’s a reflection of my soul’s desire:
+“To become a traveler in Python code.”
+
+Created with passion, dreams, and a little magic.
+— Alla (Ukraine 🇺🇦 → the world 🌍)
+
+⸻
+
+📜 License
+
+This project is free to use for learning and inspiration.
+If you share it, please keep my name and story
+
+If you share it, please keep my name and story. 💛
+
